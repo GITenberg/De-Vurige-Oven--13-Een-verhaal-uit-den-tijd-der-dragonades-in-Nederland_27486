@@ -1,0 +1,28 @@
+_repo: De-Vurige-Oven--13-Een-verhaal-uit-den-tijd-der-dragonades-in-Nederland_27486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wormser, J. A.
+    alias: Wormser, Johan Adam
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '32718'
+    url: http://www.gutenberg.org/2009/agents/32718
+description: ''
+gutenberg_issued: '2008-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27486'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+title: 'De Vurige Oven: Een verhaal uit den tijd der dragonades in Nederland'
+url: http://www.gutenberg.org/ebooks/27486
